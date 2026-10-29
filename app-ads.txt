@@ -1,1 +1,2 @@
-google.com, pub-1919867907429972, DIRECT, f08c47fec0942fa0
+google.com, pub-1819867907429972, DIRECT, f08c47fec0942fa5
+vungle.com, 0ae313bc072353c2c43c105c, DIRECT, c107d686becc2d77
